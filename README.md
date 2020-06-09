@@ -4,9 +4,9 @@ Cheat Sheet of Network Resources useful for me
 # Front-End Network Resources
 
 ## TO BE Review 
-Tachyons (React Package)
-SEGA LOGO Font (Font)
-JSON Placeholder
+1. Tachyons (React Package)  
+1. SEGA LOGO Font (Font)  
+1. JSON Placeholder
 
 ## WordPress Themes 
 ### e-commerce
@@ -27,6 +27,7 @@ Example : https://www.tmf.hk/
 
 ## Design Materials
 [Materials](https://www.irasutoya.com/)
+[unDraw](https://undraw.co/)
 
 ## Performance Review
 - [Page Weight](https://pageweight.imgix.com/) -> See How Images Affect page speed
@@ -41,3 +42,12 @@ Remark : Disable Shield Up in Brave Browser
 - [Cappen Digital Agency](https://www.cappen.com/)
 - [Plink](https://useplink.com/en/)
 - [Superherocheesecake](https://superherocheesecake.com/)
+
+## Portfolio Example / Template
+- [HTML5/CSS3 Free Templates](http://www.mashup-template.com/templates.html)
+- [mattfarley](https://mattfarley.ca/)
+- [Dejan Markovic](https://www.dejan.works/)
+- [FullStack](https://caferati.me/)
+- [emilyridge](http://www.emilyridge.ie/)
+- [ian Lunn](https://ianlunn.co.uk/)
+- [Developerfolio](https://developerfolio.js.org/)
