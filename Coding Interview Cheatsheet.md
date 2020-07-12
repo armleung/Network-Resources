@@ -1,6 +1,9 @@
 # Interview Cheat Sheet
 From Andrei Neagoie's Master The Coding Interview: Data Structures + Algorithms
 
+## Network Resource
+- [Interview MindMap](https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link)
+
 The 3 pillars of good code:
 1. Readable
 2. Time Complexity
